@@ -1,4 +1,4 @@
-# CODSOFT-
+# CODSOFT
 🚀 Welcome to CodSoft Web Development Playground!
 
 Dive into the world of web development with these three enchanting projects designed for budding developers. 🌐✨
